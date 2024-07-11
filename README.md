@@ -39,7 +39,7 @@ There are over 130 products in North America
 but in some region like Belgium , Brazil , Spain , France , Europe , United States (New Hampshire) , United States (California) , South Africa , Canada there were few products launched
 Pepsico should concentrate on these region 
 
-![image](https://github.com/LingaHarishKumar/Pepsico-Data-Analytics/assets/75218745/350b05b1-9897-4da1-90fa-036f412ea40e)
+![image](https://github.com/LingaHarishKumar/Pepsico-Data-Analytics/assets/75218745/6de095b3-1f10-42f5-881e-ffc38a44e9d1)
 
 Now we are going to explore Trend of product launched per year
 In 80's to mid 90's pepsico has launced few products
